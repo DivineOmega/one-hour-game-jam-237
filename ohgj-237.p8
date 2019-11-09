@@ -19,6 +19,7 @@ function _update()
   if btnp(5) then
    busted = false
    objs = {}
+   money = 0
    _init()
   end
   return
